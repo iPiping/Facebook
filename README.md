@@ -1,7 +1,7 @@
 # Facebook
 Online Tool for Hacking Facebook Account
 
-# Installed
+# How to Use
 
 pkg update<br>
 pkg install git python2<br>
@@ -14,6 +14,6 @@ python2 run.py
 
 # Warning!
 
-To use this tool, sign in using a new Facebook account, this reason aims to avoid Facebook accounts that have a checkpoint.
+Use a new Facebook account to avoid checkpoint sessions.
 
-This tool does not fully work well, use it wisely, I am not responsible for any risk caused by using this tool.
+This tool does not fully work well. Use wisely! I am not responsible for all forms of risk.
