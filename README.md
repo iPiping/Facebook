@@ -7,7 +7,7 @@ pkg update<br>
 pkg install git python2<br>
 pip2 install requests mechanize<br>
 pip2 install --upgrade pip<br>
-git clone https://github.com/avhidalamsyah/Facebook<br>
+git clone https://github.com/iPiping/Facebook<br>
 cd Facebook<br>
 python2 run.py
 
